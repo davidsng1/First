@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidsng1
-- 👀 I’m interested in programming of course, especially Java and C++
-- 🌱 I’m currently learning Java and C++
+- 👀 I’m interested in HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m not looking to collaborate right now
 - 📫 How to reach me at instagram: @davidsng_
 
